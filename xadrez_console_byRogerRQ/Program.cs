@@ -7,6 +7,7 @@ namespace xadrez_console_byRogerRQ
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
