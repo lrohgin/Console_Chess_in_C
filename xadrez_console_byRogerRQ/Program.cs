@@ -8,8 +8,8 @@ namespace xadrez_console_byRogerRQ
         static void Main(string[] args)
         {
             Tabuleiro tab = new Tabuleiro(8, 8);
-
-            Console.WriteLine(tab);
+            Tela.imprimirTabuleiro(tab);
+            Console.ReadLine();
         }
     }
 }
