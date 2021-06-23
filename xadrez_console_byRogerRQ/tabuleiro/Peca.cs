@@ -39,5 +39,7 @@
         }
 
         public abstract bool[,] movimentosPossiveis();
+
+
     }
 }
